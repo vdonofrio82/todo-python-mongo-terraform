@@ -1,0 +1,1 @@
+update my project adding Azure Managed Grafana to better monitor my app
